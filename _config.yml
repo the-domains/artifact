@@ -1,0 +1,13 @@
+layout_spectrum: 0.2150538
+color:
+  saturation: 0.4328012
+  lightness: 0.6948426
+  brandStrength: 0.8999323
+  brandColors:
+    - '#FCD5B3'
+    - '#D8534B'
+    - '#F1BE5C'
+    - '#783E2A'
+  rhythmicContrast: 0.5698391
+typography_spectrum: 0
+name: Artifact
